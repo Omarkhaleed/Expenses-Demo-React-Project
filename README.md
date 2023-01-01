@@ -1,7 +1,7 @@
 
 # Expenses Demo React Project
 > It is a demo project to dive into all the basics you need to know to build any kind of React app and explore all the base features.
-> Video demo [_here_](https://drive.google.com/file/d/1Bkm_J9Ny9WnpzOcwXEYRKu7UyrEG55Wp/view?usp=share_link).
+>- Video demo [_here_](https://drive.google.com/file/d/1Bkm_J9Ny9WnpzOcwXEYRKu7UyrEG55Wp/view?usp=share_link).
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -30,7 +30,7 @@
 - Add Expenses and showing them in the chart
 
 ## Screenshots
-![Example screenshot](./images/Screen.png)
+![Example screenshot](./Images/Screen.png)
 
 
 ## Project Status
